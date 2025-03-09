@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Regional Directors & Local Affiliates
 
 Regional directors help support local organizers of the annual WIAD events. They are nominated from the community and volunteer to keep conversations in the local communities active.

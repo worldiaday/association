@@ -1,5 +1,6 @@
 ---
 description: What is the role and responsibilities of the Board?
+hidden: true
 ---
 
 # Board Expectations

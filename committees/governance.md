@@ -22,15 +22,15 @@ We look for those who are:
 
 ## Committee Members
 
-| Role            | Name             |
-| --------------- | ---------------- |
-| Lead, Officer   | Grace Lau        |
-| Member, Officer | Celeste Espinoza |
-| Member, Officer | Anita Cheng      |
-| Member          |                  |
-| Member          |                  |
-| Member          |                  |
-|                 |                  |
+| Role            | Name      |
+| --------------- | --------- |
+| Lead, Officer   | Grace Lau |
+| Member, Officer |           |
+| Member, Officer |           |
+| Member          |           |
+| Member          |           |
+| Member          |           |
+|                 |           |
 
 ## Questions
 

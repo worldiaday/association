@@ -25,19 +25,4 @@ Chair commitments last about a year with the ability to advance to the Board.
 **Warning: This is experimental territory.** Expect this to be updated frequently.
 {% endhint %}
 
-* [Finance](committees/finance/) & Development
-  * [Scholarships](committees/finance/scholarships.md)
-* Community & [Events](committees/events/) -- local events that take place in Feb
-  * application process (task force)
-  * develop and maintain organizer toolkit for each year (task force)
-  * welcome/intro video (task force)
-  * organizer store
-* [Governance](committees/governance.md)
-* Publications & Communications (Social media, Website)
-  * Social media
-  * Website
-  * Medium
-* [Safety](committees/safety.md) & Conduct
-* [Mentorship](committees/education/mentorship.md)
-* Education
-  1. Mentorship
+<table><thead><tr><th>Name</th><th>Description</th><th data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Community &#x26; Events</strong></td><td>World IA Day, World IA Cafe, Taxonomy Talk and other community initiatives</td><td><a href="https://guides.worldiaday.org/community-and-events/">https://guides.worldiaday.org/community-and-events/</a></td></tr><tr><td><strong>Finance &#x26; Development</strong></td><td>Sponsorships, partnerships, and fundraising</td><td><a href="https://app.gitbook.com/s/uxsQLUNG3zCU4h6BFiGs/">Finance &#x26; Development Committee Overview</a></td></tr><tr><td><strong>Publications &#x26; Communications</strong></td><td>Newsletter, social media, website, Discord</td><td><a href="committees/publications-comms/">publications-comms</a></td></tr><tr><td><strong>Safety &#x26; Conduct</strong></td><td></td><td><a href="https://app.gitbook.com/s/3ka6x1krjGKqyLTQOVdO/">Safety &#x26; Conduct Committee</a></td></tr><tr><td><strong>Education</strong></td><td>Certificate program, Mentorship program</td><td><a href="committees/education/">education</a></td></tr><tr><td><strong>Governance</strong></td><td></td><td><a href="committees/governance.md">governance.md</a></td></tr></tbody></table>

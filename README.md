@@ -1,15 +1,15 @@
 ---
 description: >-
-  The World Information Architecture Association (WIAA) hosts World IA Day and
-  supports global initiatives to spread the Information Architecture practice.
-  WIAA brings together local communities and run
+  World IA Association is committed to empowering local communities and leaders
+  who share the common goal of teaching, learning, and shaping the future of
+  Information Architecture.
 layout:
   title:
     visible: true
   description:
     visible: true
   tableOfContents:
-    visible: false
+    visible: true
   outline:
     visible: true
   pagination:
@@ -22,7 +22,7 @@ World Information Architecture Association (legal name World IA Day, Inc.; WIAA)
 
 ## Our Mission
 
-World IA Association is committed to empowering local communities and leaders who share the common goal of teaching, learning, and shaping the future of Information Architecture. Our mission is to spread information architecture practice:
+Our mission is to spread information architecture practice:
 
 * Build and connect a global community of IA advocates and practitioners
 * Promote the role of IA in different fields
@@ -30,6 +30,8 @@ World IA Association is committed to empowering local communities and leaders wh
 * Engage IA academics and professionals in research and development
 
 [Learn about the decision to become a professional association](https://medium.com/worldiaday/introducing-the-new-world-information-architecture-association-200cb2a15442)
+
+***
 
 ## What is Information Architecture?
 
@@ -39,11 +41,19 @@ The World Information Architecture Association invites open conversations about 
 
 [Read, translate, and contribute on GitHub](https://github.com/worldiaday/definition)
 
+***
+
 ## The people behind WIAA
 
 The volunteers behind World IA Association include the Global Board of Directors, project committees, and all the local organizers and volunteers who bring the community together.
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td></td><td>Global Board of Directors</td><td></td><td><a href="about-the-board/">about-the-board</a></td></tr><tr><td></td><td>Regional Directors &#x26; Local Affiliates</td><td></td><td><a href="about-regions-and-local-affiliates/">about-regions-and-local-affiliates</a></td></tr><tr><td></td><td>Community Advisors</td><td></td><td><a href="community-advisors.md">community-advisors.md</a></td></tr></tbody></table>
+<table><thead><tr><th></th><th data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Global Board of Directors</strong></td><td><a href="about-the-board/">about-the-board</a></td></tr><tr><td><strong>Regional Directors &#x26; Local Affiliates</strong></td><td><a href="about-regions-and-local-affiliates/">about-regions-and-local-affiliates</a></td></tr><tr><td><strong>Community Advisors</strong></td><td><a href="community-advisors.md">community-advisors.md</a></td></tr></tbody></table>
+
+***
+
+## Programs and initiatives
+
+<table data-column-title-hidden data-view="cards"><thead><tr><th>Name</th><th data-hidden data-card-target data-type="content-ref">Link</th><th data-hidden>Description</th></tr></thead><tbody><tr><td>World IA Day</td><td><a href="https://app.gitbook.com/o/-LrFMS-mbB77MtL2MomZ/s/ZspU6VDj8WSM6Wc9CFta/">World IA Day</a></td><td></td></tr><tr><td>World IA Cafe</td><td><a href="https://app.gitbook.com/s/fvUOB5XGIEhQdeGXRIAD/">Page</a></td><td></td></tr><tr><td>Taxonomy Talk</td><td><a href="https://app.gitbook.com/s/ocKFKWJqcZdWQqFUHnut/">Taxonomy Talk</a></td><td></td></tr></tbody></table>
 
 {% hint style="info" %}
 **Have questions or concerns?**

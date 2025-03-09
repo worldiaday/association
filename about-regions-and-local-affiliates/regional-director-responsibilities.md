@@ -1,6 +1,6 @@
 # Regional Director Responsibilities
 
-The primary role of a World IA Day Regional Director is to serve as a regional contact working in conjunction with the relevant [Directors at large ](../about-the-board/)and the [Content committee](../committees/website.md) to better serve the region. The Regional Director provides localized advice and feedback on:
+The primary role of a World IA Day Regional Director is to serve as a regional contact working in conjunction with the relevant [Directors at large ](../about-the-board/)and the [Content committee](../committees/publications-comms/) to better serve the region. The Regional Director provides localized advice and feedback on:
 
 * information dissemination
 * local networking and educational opportunities

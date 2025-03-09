@@ -1,7 +1,8 @@
 ---
 description: >-
-  World IA Day is accepting nominations through July 6 for the 2020-2021 Board
-  of Directors
+  World IA Day is accepting nominations through July 6 for the Global Board of
+  Directors
+hidden: true
 ---
 
 # Board Nominations
@@ -26,10 +27,8 @@ We are looking for people who have the following characteristics:
 
 ### Join the executive board
 
-Members of the WIAD Board are nominated from the community. The board defines the strategic vision and establishes the roadmap with local organizers, committee leads, and the community-at-large.
+Members of the WIAA Board are nominated from the community. The board defines the strategic vision and establishes the roadmap with local organizers, committee leads, and the community-at-large.
 
-* President
-* Global Executive Producer, 2023
 * Director of Publications
 * Director of Events
 * Director of Social Media
