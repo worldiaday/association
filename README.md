@@ -31,6 +31,8 @@ Our mission is to spread information architecture practice:
 
 [Learn about the decision to become a professional association](https://medium.com/worldiaday/introducing-the-new-world-information-architecture-association-200cb2a15442)
 
+[Introducing… the new World Information Architecture Association](https://app.gitbook.com/s/KacqjAfb3ZZkQgPqSl4j/news/introducing...-the-new-world-information-architecture-association "mention")>
+
 ***
 
 ## What is Information Architecture?
@@ -53,7 +55,7 @@ The volunteers behind World IA Association include the Global Board of Directors
 
 ## Programs and initiatives
 
-<table data-column-title-hidden data-view="cards"><thead><tr><th>Name</th><th data-hidden data-card-target data-type="content-ref">Link</th><th data-hidden>Description</th></tr></thead><tbody><tr><td>World IA Day</td><td><a href="https://app.gitbook.com/o/-LrFMS-mbB77MtL2MomZ/s/ZspU6VDj8WSM6Wc9CFta/">World IA Day</a></td><td></td></tr><tr><td>World IA Cafe</td><td><a href="https://app.gitbook.com/s/fvUOB5XGIEhQdeGXRIAD/">Page</a></td><td></td></tr><tr><td>Taxonomy Talk</td><td><a href="https://app.gitbook.com/s/ocKFKWJqcZdWQqFUHnut/">Taxonomy Talk</a></td><td></td></tr></tbody></table>
+<table data-column-title-hidden data-view="cards"><thead><tr><th>Name</th><th data-hidden data-card-target data-type="content-ref">Link</th><th data-hidden>Description</th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td>World IA Day</td><td><a href="https://app.gitbook.com/o/-LrFMS-mbB77MtL2MomZ/s/ZspU6VDj8WSM6Wc9CFta/">World IA Day</a></td><td></td><td></td></tr><tr><td>World IA Cafe</td><td><a href="https://app.gitbook.com/s/fvUOB5XGIEhQdeGXRIAD/">Page</a></td><td></td><td></td></tr><tr><td>Taxonomy Talk</td><td><a href="https://app.gitbook.com/s/ocKFKWJqcZdWQqFUHnut/">Taxonomy Talk</a></td><td></td><td><a href=".gitbook/assets/taxotalk_icon.png">taxotalk_icon.png</a></td></tr></tbody></table>
 
 {% hint style="info" %}
 **Have questions or concerns?**
