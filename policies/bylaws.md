@@ -1,5 +1,16 @@
 ---
 description: Accepted as of 2019-11-06
+layout:
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: false
 ---
 
 # Bylaws
@@ -16,8 +27,7 @@ World IA Day, Inc. (World IA Day) is a US tax-exempt nonprofit public charity (5
 
 ### **1.3 Historical Record.**
 
-World IA Day was first established in 2012 as a one-day annual event held in dozens of locations across the world and hosted by the Information Architecture Institute (IA Institute). In September 2019, the Board of Directors of the IA Institute voted unanimously to dissolve the organization as a 501(c)(6) professional board of trade. With no fiscal host, World IA Day needed a way to continue to exist. A founding board for World IA Day, Inc. was established for the sole purpose of forming a nonprofit organization and to provide fiscal support for the 2020 event to continue. \*\*\*\*\
-
+World IA Day was first established in 2012 as a one-day annual event held in dozens of locations across the world and hosted by the Information Architecture Institute (IA Institute). In September 2019, the Board of Directors of the IA Institute voted unanimously to dissolve the organization as a 501(c)(6) professional board of trade. With no fiscal host, World IA Day needed a way to continue to exist. A founding board for World IA Day, Inc. was established for the sole purpose of forming a nonprofit organization and to provide fiscal support for the 2020 event to continue. \*\*\*\*\\
 
 ## **Article 2. Purposes and Goals**
 

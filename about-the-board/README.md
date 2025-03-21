@@ -20,7 +20,7 @@ We strive for geographic, professional, and demographic diversity on our Board t
 
 ## Current Global Board
 
-The global board refreshes from year to year.  See [past-leadership](../past-leadership/ "mention") for the archive of global board members.
+The global board refreshes from year to year.  See [past-leadership](past-leadership/ "mention") for the archive of global board members.
 
 {% content-ref url="2024-2025-board.md" %}
 [2024-2025-board.md](2024-2025-board.md)

@@ -2,6 +2,17 @@
 description: >-
   World IA Association believes in protecting personal information whenever
   necessary.
+layout:
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: false
 ---
 
 # Privacy Policy

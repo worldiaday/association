@@ -1,3 +1,17 @@
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: false
+---
+
 # Accessibility Statement
 
 We want everyone who visits our site, the hub for World IA Day, to feel welcome and find the experience rewarding, including people with disabilities or those who use assistive technology and preference settings to make the Web easier for them to use.

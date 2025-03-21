@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Education
 
 The Education Committee identifies emerging trends and knowledge gaps within the field of information architecture, develops responsive educational programming, and ensures the delivery of learning experiences across various formats. Committee members collaborate to establish educational standards, evaluate program effectiveness, and align learning initiatives with the association's strategic goals.
