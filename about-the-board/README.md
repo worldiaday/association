@@ -14,9 +14,13 @@ As the leadership body of the organization and to satisfy its fiduciary duties, 
 * enhancing World IA Day's public reputation
 * assessing its own performance as the governing body of World IA Day, Inc
 
+## Board Selection
+
+We strive for geographic, professional, and demographic diversity on our Board to reflect our global community. Board members must have demonstrated commitment to information architecture and previous volunteer experience with WIAA or World IA Day events.
+
 ## Current Global Board
 
-The global board refreshes from year to year.  See [past-leadership](past-leadership/ "mention") for the historical archive of global board members.
+The global board refreshes from year to year.  See [past-leadership](../past-leadership/ "mention") for the archive of global board members.
 
 {% content-ref url="2024-2025-board.md" %}
 [2024-2025-board.md](2024-2025-board.md)
@@ -24,4 +28,6 @@ The global board refreshes from year to year.  See [past-leadership](past-leader
 
 ## Join the Board of Directors
 
-Members of the WIAA Board are volunteers from the community. The board defines the strategic vision and establishes the roadmap with local organizers, committee leads, and the community-at-large.
+We’re always looking for new perspectives and people to join the board!
+
+[Learn about volunteering](https://app.gitbook.com/o/-LrFMS-mbB77MtL2MomZ/s/Vcp7n6LGN7ZcVOexy6EC/) →
