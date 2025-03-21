@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Governance
 
 We believe the way forward is to establish a governance committee to support sound decision making and adherence to our mission. This committee will be called on to uncover blindspots, ensure adherence to sound business practices, and hold the board responsible for their promise to move us closer to our mission.

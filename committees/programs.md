@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Research
 
 For strategic projects/outreach

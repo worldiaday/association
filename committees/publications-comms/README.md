@@ -2,6 +2,7 @@
 description: >-
   Manages WIAA's digital presence and member engagement through the website,
   blog, social media channels, and online communities.
+hidden: true
 ---
 
 # Publications & Communications

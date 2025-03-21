@@ -2,6 +2,7 @@
 description: >-
   How can you get involved? How would you advance to leadership roles at World
   IA Day?
+hidden: true
 ---
 
 # Committees

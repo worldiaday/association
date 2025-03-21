@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Special Projects
 
 * [Community Research](https://worldiaday.org/projects/community-research)
