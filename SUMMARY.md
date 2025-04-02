@@ -32,10 +32,3 @@
   * [Past Members](committees/education/past-members.md)
 * [Special Projects](committees/special-projects.md)
 * [Research](committees/programs.md)
-
-## Policies
-
-* [Accessibility Statement](policies/accessibility-statement.md)
-* [Privacy Policy](policies/privacy-policy.md)
-* [Bylaws](policies/bylaws.md)
-* [Code of Conduct](policies/code-of-conduct.md)
