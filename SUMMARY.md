@@ -12,6 +12,7 @@
   * [2021-2022 Board](about-the-board/past-leadership/2021-2022-board-of-directors-2.md)
   * [2020-2021 Board](about-the-board/past-leadership/2020-2021-board.md)
   * [2019-2020 Board](about-the-board/past-leadership/2019-2020-board.md)
+* [Bylaws](bylaws.md)
 * [Regional Directors & Local Affiliates](about-regions-and-local-affiliates/README.md)
   * [Regional Director Responsibilities](about-regions-and-local-affiliates/regional-director-responsibilities.md)
 * [Community Advisors](community-advisors.md)
