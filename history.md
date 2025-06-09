@@ -26,4 +26,4 @@ Shortly after World IA Day, Inc. is designated as a public charity, section 501(
 
 This transition for World IA Day as its own governing body started with the end of the IA Institute and requires a process of letting go, realigning, and re-identification before World IA Day re-emerges with its new identity.
 
-[Introducing… the new World Information Architecture Association](https://app.gitbook.com/s/KacqjAfb3ZZkQgPqSl4j/2021/introducing...-the-new-world-information-architecture-association "mention")
+{% include ".gitbook/includes/contact-global-board.md" %}
