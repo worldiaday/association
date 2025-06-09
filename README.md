@@ -2,17 +2,6 @@
 description: >-
   Learning, practicing, and evolving the discipline of Information Architecture
   across global communities
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: false
 ---
 
 # About WIAA
@@ -69,11 +58,11 @@ Join us as we work to create a world where information empowers rather than over
 
 ### Building community and knowledge through global initiatives
 
-<table data-card-size="large" data-view="cards" data-full-width="true"><thead><tr><th>Name</th><th>Description</th><th data-hidden data-card-target data-type="content-ref">Link</th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><p></p><p>World IA Day</p></td><td>Community-organized events worldwide to share knowledge and build professional relationships.</td><td><a href="https://app.gitbook.com/o/-LrFMS-mbB77MtL2MomZ/s/ZspU6VDj8WSM6Wc9CFta/">World IA Day</a></td><td></td></tr><tr><td>World IA Cafe</td><td>Regular virtual seminars sharing talks and learning opportunities for professionals at all career stages.</td><td><a href="https://app.gitbook.com/s/fvUOB5XGIEhQdeGXRIAD/">Page</a></td><td></td></tr><tr><td>State of Information Architecture</td><td>Research initiative tracking trends, challenges, and opportunities to understand the evolving landscape of information architecture.</td><td></td><td></td></tr><tr><td>Taxonomy Talk</td><td>A Discord community and speaker series exploring real-world taxonomy implementations, best practices, and emerging trends</td><td><a href="https://app.gitbook.com/s/ocKFKWJqcZdWQqFUHnut/">Taxonomy Talk</a></td><td><a href=".gitbook/assets/taxotalk_icon.png">taxotalk_icon.png</a></td></tr><tr><td>IA Content Collection</td><td></td><td></td><td></td></tr></tbody></table>
+<table data-view="cards" data-full-width="true"><thead><tr><th>Name</th><th>Description</th><th data-hidden data-card-target data-type="content-ref">Link</th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td>World IA Day</td><td>Community-organized events worldwide to share knowledge and build professional relationships</td><td><a href="https://app.gitbook.com/o/-LrFMS-mbB77MtL2MomZ/s/WfyvOXbZrhAqKTUW8qog/">World IA Day</a></td><td></td></tr><tr><td>World IA Cafe</td><td>Regular virtual seminars sharing talks and learning opportunities for professionals at all career stages</td><td><a href="https://app.gitbook.com/o/-LrFMS-mbB77MtL2MomZ/s/fvUOB5XGIEhQdeGXRIAD/">World IA Cafe</a></td><td></td></tr><tr><td>State of Information Architecture</td><td>Research initiative tracking trends, challenges, and opportunities to understand the evolving landscape of information architecture</td><td><a href="https://app.gitbook.com/o/-LrFMS-mbB77MtL2MomZ/s/EpWW3JxGIhXqUcS8bzuA/">State of Information Architecture</a></td><td></td></tr><tr><td>Taxonomy Talk</td><td>A Discord community and speaker series exploring real-world taxonomy implementations, best practices, and emerging trends</td><td><a href="https://app.gitbook.com/o/-LrFMS-mbB77MtL2MomZ/s/ocKFKWJqcZdWQqFUHnut/">Taxonomy Talk</a></td><td></td></tr><tr><td>IA Content Collection</td><td>Working collection of presentations, talks, and artifacts from World IA Day, World IA Cafe, and other WIAA events</td><td><a href="https://app.gitbook.com/o/-LrFMS-mbB77MtL2MomZ/s/baSlLofx8dFkZzTEdS1i/">Content Collection</a></td><td></td></tr></tbody></table>
 
 ## Our Origins
 
-World IA Day began in 2012 as a project under the Information Architecture Institute (IAI), but when the Institute dissolved, the global community rallied to preserve what mattered most—the grassroots nature of local events connecting IA practitioners worldwide. This community-driven spirit led to the establishment of the World IA Association (WIAA) as an independent entity in 2019, ensuring these valuable connections and knowledge-sharing opportunities would continue to thrive.
+World IA Day began in 2012 as a project under the Information Architecture Institute (IAI), but when the Institute dissolved, the global community rallied to preserve what mattered most: the grassroots nature of local events connecting IA practitioners worldwide. This community-driven spirit led to the establishment of the World IA Association (WIAA) as an independent entity in 2019, ensuring these valuable connections and knowledge-sharing opportunities would continue to thrive.
 
 [Learn more about our evolution](history.md) →
 
@@ -81,13 +70,11 @@ World IA Day began in 2012 as a project under the Information Architecture Insti
 
 ## Community-Driven Leadership
 
-WIAA thrives through the dedication of our globally diverse leadership team. With board members spanning \[6 continents/12 countries], our leadership brings together perspectives from across the Information Architecture community worldwide.
+WIAA thrives through the dedication of our globally diverse leadership team. With board members spanning 5 continents, our leadership brings together perspectives from across the Information Architecture community worldwide.
 
 ### Global Board of Directors
 
-Our Global Board members emerge from the grassroots of our field - they are practitioners, educators, and advocates who understand the challenges and opportunities facing information architects today because they live them daily.
-
-\[ORGANIZER TESTIMONIAL]
+Our Global Board members emerge from the grassroots of our field--we are practitioners, educators, and advocates who understand the challenges and opportunities facing information architects today.
 
 This global, community-driven governance ensures WIAA's initiatives remain relevant and accessible to practitioners across different cultures, contexts, and career stages. Board members often begin their WIAA journey as local World IA Day organizers, bringing valuable insights from their regional communities to our global initiatives.
 
@@ -95,11 +82,6 @@ This global, community-driven governance ensures WIAA's initiatives remain relev
 
 
 
-{% hint style="info" %}
-**Have questions or concerns?**
-
-* Email: [info@worldiaday.org](mailto:info@worldiaday.org)
-* Twitter: [@worldiaday](https://twitter.com/WorldIADay)
-{% endhint %}
+{% include ".gitbook/includes/contact-global-board.md" %}
 
 \
