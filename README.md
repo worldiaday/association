@@ -6,7 +6,7 @@ description: >-
 
 # About WIAA
 
-## Our Mission
+## Our mission
 
 The World Information Architecture Association (WIAA) exists to:
 
@@ -21,7 +21,7 @@ We want a world where people can easily find and use information they need. We b
 
 ***
 
-## What is Information Architecture?
+## What is information architecture?
 
 > Making the complex clear and the confusing understandable
 
@@ -29,11 +29,11 @@ Information architecture is the practice of organizing and structuring informati
 
 As information continues to grow and change in our world, so does our understanding of information architecture.
 
-Explore how IA has evolved and why its definition continues to develop →&#x20;
+[Explore how IA has evolved and why its definition continues to develop](https://app.gitbook.com/o/-LrFMS-mbB77MtL2MomZ/s/SbD6sBUknwcuefnkPkME/) →&#x20;
 
 ***
 
-## Who We Are
+## Who we are
 
 WIAA is a global community of educators, students, practitioners, and enthusiasts united by a passion for improving how humans interact with information. From coffee shops to university auditoriums across continents, our members are organizing grassroots events and building the future of information architecture one community at a time.
 
@@ -41,7 +41,7 @@ Founded on the principle that information should be structured to meet human nee
 
 ***
 
-## Our Impact: How We Advance the Field
+## Our impact: How we advance the field
 
 Through our network spanning six continents, WIAA fosters local communities while maintaining global connections. We support the growth of Information Architecture as both an academic discipline and practical craft by:
 
@@ -52,17 +52,19 @@ Through our network spanning six continents, WIAA fosters local communities whil
 
 Whether you're a seasoned professional, a curious student, or simply someone who cares about how information shapes our world, WIAA offers a place to learn, contribute, and grow in your understanding of information architecture.
 
+{% hint style="danger" %}
 Image: Visual representation of global reach (updated map)
-
-Join us as we work to create a world where information empowers rather than overwhelms, where meaning is accessible to all, and where the structures behind our information environments are designed with intention and care.
+{% endhint %}
 
 ### Building community and knowledge through global initiatives
 
-<table data-view="cards" data-full-width="false"><thead><tr><th>Name</th><th>Description</th><th data-hidden data-card-target data-type="content-ref">Link</th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td>World IA Day</td><td>Community-organized events worldwide to share knowledge and build professional relationships</td><td><a href="https://app.gitbook.com/o/-LrFMS-mbB77MtL2MomZ/s/WfyvOXbZrhAqKTUW8qog/">World IA Day</a></td><td></td></tr><tr><td>World IA Cafe</td><td>Regular virtual seminars sharing talks and learning opportunities for professionals at all career stages</td><td><a href="https://app.gitbook.com/o/-LrFMS-mbB77MtL2MomZ/s/fvUOB5XGIEhQdeGXRIAD/">World IA Cafe</a></td><td></td></tr><tr><td>State of Information Architecture</td><td>Research initiative tracking trends, challenges, and opportunities to understand the evolving landscape of information architecture</td><td><a href="https://app.gitbook.com/o/-LrFMS-mbB77MtL2MomZ/s/EpWW3JxGIhXqUcS8bzuA/">State of Information Architecture</a></td><td></td></tr><tr><td>Taxonomy Talk</td><td>A Discord community and speaker series exploring real-world taxonomy implementations, best practices, and emerging trends</td><td><a href="https://app.gitbook.com/o/-LrFMS-mbB77MtL2MomZ/s/ocKFKWJqcZdWQqFUHnut/">Taxonomy Talk</a></td><td></td></tr><tr><td>IA Content Collection</td><td>Working collection of presentations, talks, and artifacts from World IA Day, World IA Cafe, and other WIAA events</td><td><a href="https://app.gitbook.com/o/-LrFMS-mbB77MtL2MomZ/s/baSlLofx8dFkZzTEdS1i/">Content Collection</a></td><td></td></tr></tbody></table>
+<table data-column-title-hidden data-view="cards" data-full-width="false"><thead><tr><th>Name</th><th>Description</th><th data-hidden data-card-target data-type="content-ref">Link</th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><strong>World IA Day</strong></td><td>Community-organized events worldwide to share knowledge and build professional relationships</td><td><a href="https://app.gitbook.com/o/-LrFMS-mbB77MtL2MomZ/s/WfyvOXbZrhAqKTUW8qog/">World IA Day</a></td><td></td></tr><tr><td><strong>World IA Cafe</strong></td><td>Regular virtual seminars sharing talks and learning opportunities for professionals at all career stages</td><td><a href="https://app.gitbook.com/o/-LrFMS-mbB77MtL2MomZ/s/fvUOB5XGIEhQdeGXRIAD/">World IA Cafe</a></td><td></td></tr><tr><td><strong>State of IA</strong></td><td>Research initiative tracking trends, challenges, and opportunities to understand the evolving landscape of information architecture</td><td><a href="https://app.gitbook.com/o/-LrFMS-mbB77MtL2MomZ/s/EpWW3JxGIhXqUcS8bzuA/">State of Information Architecture</a></td><td></td></tr><tr><td><strong>Taxonomy Talk</strong></td><td>A Discord community and speaker series exploring real-world taxonomy implementations, best practices, and emerging trends</td><td><a href="https://app.gitbook.com/o/-LrFMS-mbB77MtL2MomZ/s/ocKFKWJqcZdWQqFUHnut/">Taxonomy Talk</a></td><td></td></tr><tr><td><strong>IA Content Collection</strong></td><td>A developing collection of presentations, talks, and artifacts from World IA Day, World IA Cafe, and other WIAA events</td><td><a href="https://app.gitbook.com/o/-LrFMS-mbB77MtL2MomZ/s/baSlLofx8dFkZzTEdS1i/">Content Collection</a></td><td></td></tr></tbody></table>
 
-## Our Origins
+***
 
-World IA Day began in 2012 as a project under the Information Architecture Institute (IAI), but when the Institute dissolved, the global community rallied to preserve what mattered most: the grassroots nature of local events connecting IA practitioners worldwide. This community-driven spirit led to the establishment of the World IA Association (WIAA) as an independent entity in 2019, ensuring these valuable connections and knowledge-sharing opportunities would continue to thrive.
+## Origins of World IA Day
+
+World IA Day began in 2012 as a project under the Information Architecture Institute (IAI), but when the Institute dissolved, the global community rallied to preserve what mattered most: the grassroots nature of local events connecting IA practitioners worldwide. This community-driven spirit led to the establishment of the World IA Association as an independent entity in 2019, ensuring these valuable connections and knowledge-sharing opportunities would continue to thrive.
 
 [Learn more about our evolution](history.md) →
 
@@ -72,15 +74,9 @@ World IA Day began in 2012 as a project under the Information Architecture Insti
 
 WIAA thrives through the dedication of our globally diverse leadership team. With board members spanning 5 continents, our leadership brings together perspectives from across the Information Architecture community worldwide.
 
-### Global Board of Directors
-
-Our Global Board members emerge from the grassroots of our field--we are practitioners, educators, and advocates who understand the challenges and opportunities facing information architects today.
-
 This global, community-driven governance ensures WIAA's initiatives remain relevant and accessible to practitioners across different cultures, contexts, and career stages. Board members often begin their WIAA journey as local World IA Day organizers, bringing valuable insights from their regional communities to our global initiatives.
 
 [Meet our Global Board of Directors](about-the-board/) →
-
-
 
 {% include ".gitbook/includes/contact-global-board.md" %}
 
