@@ -33,3 +33,7 @@
   * [Past Members](committees/education/past-members.md)
 * [Special Projects](committees/special-projects.md)
 * [Research](committees/programs.md)
+
+***
+
+* [What is Information Architecture?](https://www.information-architecture.world/what-is-ia)
