@@ -15,7 +15,7 @@ The World Information Architecture Association (WIAA) exists to:
 * Provide resources for learning and professional development
 * Engage IA academics and professionals in research and development
 
-The World Information Architecture Association (WIAA) exists to advance the discipline of Information Architecture. We champion the critical role of IA in creating meaning and understanding in a world of increasing information complexity. Through education, community building, and shared practice, we empower individuals and organizations to create information environments that are easily accessible, understandable, and actionable.
+The World Information Architecture Association (WIAA) exists to advance the discipline of Information Architecture (IA). We champion the critical role of IA in creating meaning and understanding in a world of increasing information complexity. Through education, community building, and shared practice, we empower individuals and organizations to create information environments that are easily accessible, understandable, and actionable.
 
 We want a world where people can easily find and use information they need. We believe in making complex information clear. Our goal is to build spaces—both online and in real life—where information makes sense and helps people. We work toward a future where finding information feels easy instead of frustrating, and where everyone can navigate the growing sea of information in their daily lives.
 
