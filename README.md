@@ -39,7 +39,9 @@ As information continues to grow and change in our world, so does our understand
 
 WIAA is a global community of educators, students, practitioners, and enthusiasts united by a passion for improving how humans interact with information. From coffee shops to university auditoriums across continents, our members are organizing grassroots events and building the future of information architecture one community at a time.
 
-Founded on the principle that information should be structured to meet human needs, WIAA serves as the central hub for advancement, education, and application of information architecture principles worldwide. We believe that thoughtful information architecture is essential to solving many of today's most pressing challenges—from improving digital accessibility to combating misinformation.
+Founded on the principle that information should be structured to meet human needs, WIAA serves as the central hub for advancement, education, and application of information architecture principles worldwide. We believe that thoughtful information architecture is essential to solving many of today's most pressing challenges from improving digital accessibility to combating misinformation.
+
+[about-the-board](about-the-board/ "mention") →&#x20;
 
 ***
 
@@ -58,16 +60,4 @@ Whether you're a seasoned professional, a curious student, or simply someone who
 
 <table data-column-title-hidden data-view="cards" data-full-width="false"><thead><tr><th>Name</th><th>Description</th><th data-hidden data-card-target data-type="content-ref">Link</th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><strong>World IA Day</strong></td><td>Community-organized events worldwide to share knowledge and build professional relationships</td><td><a href="https://app.gitbook.com/o/-LrFMS-mbB77MtL2MomZ/s/WfyvOXbZrhAqKTUW8qog/">World IA Day</a></td><td></td></tr><tr><td><strong>World IA Cafe</strong></td><td>Regular virtual seminars sharing talks and learning opportunities for professionals at all career stages</td><td><a href="https://app.gitbook.com/o/-LrFMS-mbB77MtL2MomZ/s/fvUOB5XGIEhQdeGXRIAD/">World IA Cafe</a></td><td></td></tr><tr><td><strong>State of IA</strong></td><td>Research initiative tracking trends, challenges, and opportunities to understand the evolving landscape of information architecture</td><td><a href="https://app.gitbook.com/o/-LrFMS-mbB77MtL2MomZ/s/EpWW3JxGIhXqUcS8bzuA/">State of Information Architecture</a></td><td></td></tr><tr><td><strong>Taxonomy Talk</strong></td><td>A Discord community and speaker series exploring real-world taxonomy implementations, best practices, and emerging trends</td><td><a href="https://app.gitbook.com/o/-LrFMS-mbB77MtL2MomZ/s/ocKFKWJqcZdWQqFUHnut/">Taxonomy Talk</a></td><td></td></tr><tr><td><strong>IA Content Collection</strong></td><td>A developing collection of presentations, talks, and artifacts from World IA Day, World IA Cafe, and other WIAA events</td><td><a href="https://app.gitbook.com/o/-LrFMS-mbB77MtL2MomZ/s/baSlLofx8dFkZzTEdS1i/">Content Collection</a></td><td></td></tr></tbody></table>
 
-***
-
-## Community-Driven Leadership
-
-WIAA thrives through the dedication of our globally diverse leadership team. With board members spanning 5 continents, our leadership brings together perspectives from across the Information Architecture community worldwide.
-
-This global, community-driven governance ensures WIAA's initiatives remain relevant and accessible to practitioners across different cultures, contexts, and career stages. Board members often begin their WIAA journey as local World IA Day organizers, bringing valuable insights from their regional communities to our global initiatives.
-
-[Meet our Global Board of Directors](about-the-board/) →
-
 {% include ".gitbook/includes/contact-global-board.md" %}
-
-\
