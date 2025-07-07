@@ -1,22 +1,8 @@
 # Global Board of Directors
 
-World IA Association is a nonprofit volunteer organization with a board of directors who are the ultimate responsible body of the organization. These volunteers play a strategic role in determining the mission and direction of World IA Association, ensuring that the organization continues to operate in support of its mission and driving principles. Board members fulfill different roles and functions as needed.
+WIAA thrives through the dedication of our globally diverse leadership team. With board members spanning 5 continents, our leadership brings together perspectives from across the Information Architecture community worldwide.
 
-## Board Responsibilities
-
-As the leadership body of the organization and to satisfy its fiduciary duties, the board is responsible for:
-
-* determining the mission and purposes of the organization
-* strategic and organizational planning
-* ensuring strong fiduciary oversight and financial management
-* fundraising and resource development
-* approving and monitoring World IA Day's programs, events, and services
-* enhancing World IA Day's public reputation
-* assessing its own performance as the governing body of World IA Day, Inc
-
-## Board Selection
-
-We strive for geographic, professional, and demographic diversity on our Board to reflect our global community. Board members must have demonstrated commitment to information architecture and previous volunteer experience with WIAA or World IA Day events.
+This global, community-driven governance ensures WIAA's initiatives remain relevant and accessible to practitioners across different cultures, contexts, and career stages. Board members often begin their WIAA journey as local World IA Day organizers, bringing valuable insights from their regional communities to our global initiatives.
 
 ## Current Global Board
 
