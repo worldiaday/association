@@ -8,9 +8,7 @@ This global, community-driven governance ensures WIAA's initiatives remain relev
 
 The global board refreshes from year to year.  See [past-leadership](past-leadership/ "mention") for the archive of global board members.
 
-{% content-ref url="2024-2025-board.md" %}
-[2024-2025-board.md](2024-2025-board.md)
-{% endcontent-ref %}
+{% include "../.gitbook/includes/board-2026-7.md" %}
 
 ## Join the Board of Directors
 
